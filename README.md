@@ -21,12 +21,12 @@
   
 
 <h2 align="center">Github stats :bar_chart:</h2>
-
+<p align ="center">
 <a href="https://github.com/Santiagorr88">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Santiagorr88&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagorr88&theme=buefy&layout=compact" />
 </a>
-
+</p>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
