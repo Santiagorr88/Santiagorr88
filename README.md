@@ -1,21 +1,17 @@
-# Santiago Rodriguez
-
-<h2 align="center">About me</h2>
-
-```
-```
-
-<h2 align="center">You can reach me at :alien:</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/angel-santiago-jaime-zavala-601813199/">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+ <h2 align="center">Santiago Rodriguez</h2>
+ 
+<p align="center">
+  <a href="https://www.linkedin.com/in/santiagorodriguez88/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Santiago Rodriguez LinkedIn Profile" height="30" width="30">
   </a>
 
 </p>
+</p>
 
-
-<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
+<h2 align="center">You can reach me at :alien:</h2>
 
 
 <h2 align="center">Github stats :bar_chart:</h2>
