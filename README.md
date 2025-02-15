@@ -8,12 +8,9 @@
 ---
 
 ### 🛠️ Habilidades Técnicas
-- **Python**: Avanzado (5 años)
+- **Python**: Avanzado (3 años)
 - **FastAPI**: Avanzado (3 años)
-- **GPT-3/4**: Intermedio (1.5 años)
-- **Selenium**: Intermedio (2 años)
-- **React**: Intermedio (2 años)
-- **Java**: Intermedio (3 años)
+- **GPT-3/4**: Intermedio (2 años)
 - **Machine Learning**: Intermedio (2 años)
 - **AI/NLP**: Intermedio (2 años)
 ---
@@ -21,7 +18,6 @@
 ### 🎓 Actualmente Estoy Aprendiendo
 - 🤖 **Machine Learning** con Python y scikit-learn.
 - 🐳 **Docker** para la contenedorización de aplicaciones.
-- ⚛️ **Integración de React con TypeScript** para aplicaciones más tipadas.
 ---
 
 ### 🏅 Logros
